@@ -5,7 +5,8 @@
 <i>"To be completely cured of newspapers, spend a year reading the previous week’s newspapers"</i>- Nassim Nicholas Taleb
 
 
-An extremely low effort chrome extension.
+An extremely low effort chrome extension that enables you to quickly see news on selected sites from about a week ago. 
+
 
 
 ### Instructions
