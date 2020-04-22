@@ -1,5 +1,5 @@
 
-<h1 align="center">newspapercure</h1>
+<h1 align="center">newspaper-cure</h1>
 
 
 <i>"To be completely cured of newspapers, spend a year reading the previous week’s newspapers"</i>- Nassim Nicholas Taleb
